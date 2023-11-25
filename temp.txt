@@ -1,0 +1,11 @@
+{
+  "name": "Hotel Name ABC",
+  "type": "It's a Hotel",
+  "city": "City Mumbai",
+  "address": "Colaba",
+  "distance": "200m",
+  "title": "Hotel Grand",
+  "desc": "awesome hotel desc ",
+  "cheapestPrice": "3000",
+  "featured": true
+}
